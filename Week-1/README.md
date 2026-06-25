@@ -57,9 +57,10 @@ Writing PL/SQL blocks and stored procedures
 Implementing unit testing using JUnit
 Mocking dependencies using Mockito
 Implementing logging using SLF4J
-Following Test Driven Development (TDD) practices
-Author
+Following Test Driven Development (TDD) practices.
 
+
+Author:
 Harshitha Maski
 
 Cognizant DeepSkilling Nurture 5.0 – Week 1 Hands-on Solutions
